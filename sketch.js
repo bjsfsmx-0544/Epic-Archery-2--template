@@ -54,7 +54,7 @@ function draw() {
 
   Engine.update(engine);
 
-  // Title
+  // Título
   fill("#FFFF");
   textAlign("center");
   textSize(40);
